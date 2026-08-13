@@ -4,7 +4,9 @@
 
 ### `COMPUTER SCIENCE • WEB DEVELOPMENT • DSA`
 <div align="center">
-
+<p align="center">
+  <img src="./varad-terminal.png" width="100%">
+</p>
 </div>
 
 ---
