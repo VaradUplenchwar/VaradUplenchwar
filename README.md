@@ -5,7 +5,6 @@
 ### `COMPUTER SCIENCE • WEB DEVELOPMENT • DSA`
 <div align="center">
 
-
 </div>
 
 ---
