@@ -193,16 +193,6 @@ EPISODE 05  ███████░░░░░░░░░░░░░  Hackat
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VaradUplenchwar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
 # 📈 RECENT ACTIVITY
 
 <p align="center">
