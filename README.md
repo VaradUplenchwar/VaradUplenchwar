@@ -179,17 +179,12 @@ EPISODE 05  ███████░░░░░░░░░░░░░  Hackat
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaradUplenchwar&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E50914&icon_color=E50914&text_color=ffffff&border_color=333333&hide_border=false" height="180"/>
 
 <img src="https://streak-stats.demolab.com?user=VaradUplenchwar&theme=dark&background=0d0d0d&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=ffffff&dates=888888&border=333333" height="180"/>
 
 </p>
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradUplenchwar&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E50914&text_color=ffffff&border_color=333333" />
-
-</p>
 
 ---
 
