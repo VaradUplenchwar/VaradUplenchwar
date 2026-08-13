@@ -1,9 +1,4 @@
 <div align="center">
-
-# 🔴 VARAD UPLENCHWAR
-
-### `COMPUTER SCIENCE • WEB DEVELOPMENT • DSA`
-<div align="center">
 <p align="center">
   <img src="ChatGPT Image Aug 13, 2026, 06_09_36 PM.png" width="100%">
 </p>
@@ -62,8 +57,8 @@
 </table>
 
 ---
-
-# 🍿 MY TECH STACK
+<div align="center">
+### 🍿 MY TECH STACK
 
 ### **THE MAIN CAST**
 
@@ -89,7 +84,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
-
+</div>
 # 🔥 CURRENTLY WATCHING
 
 ### `THE DEVELOPER JOURNEY`
