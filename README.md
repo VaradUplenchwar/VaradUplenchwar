@@ -24,7 +24,7 @@
 
 🤖 **Exploring:** AI / ML
 
-🏎️ **Off-screen:** F1 • Music • History • Finance
+🏎️ **Off-screen:** F1 • Technology • Finance
 
 🎯 **Mission:** Become a seriously good software engineer.
 
@@ -219,8 +219,6 @@ EPISODE 05  ███████░░░░░░░░░░░░░  Hackat
 | --- | --------------------------- |
 | 🏎️ | **F1**                      |
 | 🎧  | **Music**                   |
-| 🌍  | **History & World Affairs** |
-| 💰  | **Finance**                 |
 | 💻  | **Technology**              |
 
 > **My browser tabs have more character development than most TV shows.**
