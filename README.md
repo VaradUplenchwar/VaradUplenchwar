@@ -5,7 +5,7 @@
 ### `COMPUTER SCIENCE • WEB DEVELOPMENT • DSA`
 <div align="center">
 <p align="center">
-  <img src="./varad-terminal.png" width="100%">
+  <img src="ChatGPT Image Aug 13, 2026, 06_09_36 PM.png" width="100%">
 </p>
 </div>
 
