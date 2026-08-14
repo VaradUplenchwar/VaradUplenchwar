@@ -24,10 +24,6 @@
 
 🤖 **Exploring:** AI / ML
 
-🏎️ **Off-screen:** F1 • Technology • Finance
-
-🎯 **Mission:** Become a seriously good software engineer.
-
 </td>
 
 <td width="35%">
