@@ -5,9 +5,6 @@
 </div>
 
 ---
-
-# 🎬 Hi
-
 <table>
 <tr>
 <td width="65%">
