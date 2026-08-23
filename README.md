@@ -8,7 +8,9 @@
 <table>
 <tr>
 <td width="65%">
-## **VARAD UPLENCHWAR**
+
+  
+  ## **VARAD UPLENCHWAR**
 
 **CSE Student** • **Web Developer** • **DSA Learner**
 
